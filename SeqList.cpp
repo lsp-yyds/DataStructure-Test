@@ -70,7 +70,8 @@ ElemType LocateElem(SqList L, int e)
 	return i + 1;
 }
 
-int main(int argc, char const *argv[])
+//  main()函数测试
+/*int main(int argc, char const *argv[])
 {
 	int e = -1;
 	SqList L;
@@ -91,4 +92,4 @@ int main(int argc, char const *argv[])
 		printf("%d\n", L.data[i]);
 	}
 	return 0;
-}
+}*/
